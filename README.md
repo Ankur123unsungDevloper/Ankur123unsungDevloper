@@ -1,7 +1,7 @@
 ## Hi there, I'm Ankur Das 👋
 
 <!--
-**Ankur123unsungDevloper/Ankur123unsungDevloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ankur123unsungDeveloper/Ankur123unsungDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
