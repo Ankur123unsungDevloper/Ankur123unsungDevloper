@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 ## 💫 About Me:
-. 🔭 I’m currently working on App development<br>. 🌱 I’m currently learning ...<br>. 👯 I’m looking to collaborate on LinedIn<br>. 🤔 I’m looking for help with ...<br>. 💬 Ask me about Web development<br>. 📫 How to reach me: my website<br>. 😄 Pronouns: Mr./he/him<br>. ⚡ Fun fact: ...
+. 🔭 I’m currently working on improving myself<br>. 🌱 I’m currently learning App Development<br>. 👯 I’m looking to collaborate on LinedIn<br>. 🤔 I’m looking for help with ...<br>. 💬 Ask me about Web development<br>. 📫 How to reach me: my website<br>. 😄 Pronouns: Mr./he/him<br>. ⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
