@@ -6,7 +6,14 @@
 Here are some ideas to get you started:-->
 
 ## 💫 About Me:
-. 🔭 I’m currently working on improving myself<br>. 🌱 I’m currently learning App Development<br>. 👯 I’m looking to collaborate on LinedIn<br>. 🤔 I’m looking for help with ...<br>. 💬 Ask me about Web development<br>. 📫 How to reach me: my website<br>. 😄 Pronouns: Mr./he/him<br>. ⚡ Fun fact: ...
+.🔭 I’m currently working on self-improvement  
+🌱 Learning App Development (Kotlin & Android Studio)  
+👯 Looking to collaborate via [LinkedIn](https://linkedin.com/in/ankur-das-b71769248)  
+🤔 Always open to discussions on Full Stack Development & AI  
+💬 Ask me about: Web Development, MERN Stack  
+📫 Reach me via: [My Website](https://ankurdas.in) or social links below  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love building side projects late at night!
 
 
 ## 🌐 Socials:
