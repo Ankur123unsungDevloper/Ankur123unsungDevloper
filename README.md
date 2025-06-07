@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 ## 💫 About Me:
 .🔭 I’m currently working in Intership  
 .🌱 Learning App Development (Kotlin & Android Studio)  
-.👯 Looking to collaborate via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankur-das-b71769248)  
+.👯 Looking to collaborate via (https://linkedin.com/in/ankur-das-b71769248)  
 .🤔 Always open to discussions on Full Stack Development & AI  
 .💬 Ask me about: Web Development, MERN Stack  
 .📫 Reach me via: [My Website](https://ankurdas.in) or social links below  
